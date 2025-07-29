@@ -1,5 +1,5 @@
 import math
-
+print(6/0)
 # My first python project. There is too much code repetition and it looks ugly but it works.
 print("Welcome to Haznedar's fancy and luxury calculator!\n")
 
